@@ -1,0 +1,23 @@
+@import '_tachyons';
+@import '_code';
+@import '_hugo-internal-templates';
+@import '_social-icons';
+@import '_styles';
+
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer {
+  flex-shrink: 0;
+}
