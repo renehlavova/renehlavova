@@ -1,0 +1,54 @@
+{{ $icon_size := "28px" }}
+
+{{ with .Param "facebook" }}
+<a href="{{ . }}" target="_blank" class="facebook link dib z-999 pt2 pt1-l mr1" title="Facebook" rel="noopener" aria-label="follow on Facebook——Opens in a new window">
+  {{ partial "svg/facebook.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+
+{{ with .Param "spotify" }}
+<a href="{{ . }}" target="_blank" class="spotify link dib z-999 pt2 pt1-l mr1" title="Spotify" rel="noopener" aria-label="follow on Soundcloud——Opens in a new window">
+  {{ partial "svg/spotify.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+
+{{ with .Param "soundcloud" }}
+<a href="{{ . }}" target="_blank" class="soundcloud link dib z-999 pt2 pt1-l mr1" title="Soundcloud" rel="noopener" aria-label="follow on Soundcloud——Opens in a new window">
+  {{ partial "svg/soundcloud.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+
+{{ with .Param "instagram" }}
+<a href="{{ . }}" target="_blank" class="instagram link dib z-999 pt2 pt1-l mr1" title="Instagram" rel="noopener" aria-label="follow on Instagram——Opens in a new window">
+  {{ partial "svg/instagram.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+{{ with .Param "youtube" }}
+<a href="{{ . }}" target="_blank" class="youtube link dib z-999 pt2 pt1-l mr1" title="Youtube" rel="noopener" aria-label="follow on Youtube——Opens in a new window">
+  {{ partial "svg/youtube.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+
+{{ with .Param "linkedin" }}
+<a href="{{ . }}" target="_blank" class="linkedin link dib z-999 pt2 pt1-l mr1" title="LinkedIn" rel="noopener" aria-label="follow on LinkedIn——Opens in a new window">
+  {{ partial "svg/linkedin.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+{{ with .Param "github" }}
+<a href="{{ . }}" target="_blank" class="github link dib z-999 pt2 pt1-l mr1" title="Github" rel="noopener" aria-label="follow on Github——Opens in a new window">
+  {{ partial "svg/github.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}
+{{ with .Param "medium" }}
+<a href="{{ . }}" target="_blank" class="medium link dib z-999 pt2 pt1-l mr1" title="Medium" rel="noopener" aria-label="follow on Medium——Opens in a new window">
+  {{ partial "svg/medium.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}

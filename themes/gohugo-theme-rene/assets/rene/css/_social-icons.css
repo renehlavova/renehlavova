@@ -1,0 +1,44 @@
+.facebook, .instagram, .youtube, .github, .linkedin, .medium, .soundcloud, .spotify {
+  fill: #BABABA;
+}
+
+.new-window {
+  opacity: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+.link-transition:hover .new-window{
+  opacity: 1;
+}
+
+.facebook:hover {
+  fill: #3b5998;
+}
+
+.instagram:hover {
+  fill: #e1306c;
+}
+
+.youtube:hover {
+  fill: #cd201f;
+}
+
+.github:hover {
+  fill: #000000;
+}
+
+.linkedin:hover {
+  fill: #0077b5
+}
+
+.medium:hover {
+  fill: #0077b5
+}
+
+.soundcloud:hover {
+  fill: #FF5E13
+}
+
+.spotify:hover {
+  fill: #1ed760
+}

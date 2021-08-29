@@ -1,0 +1,50 @@
+title = "RENE HLAVOVA"
+baseurl = "https://renehlavova.com"
+
+
+relativeURLs = true
+
+languagecode = "en-us"
+defaultcontentlanguage = "en"
+
+theme = "gohugo-theme-rene"
+
+SectionPagesMenu = "main"
+paginate = 20 
+canonifyurls = true
+
+googleAnalytics = ""
+enableRobotsTXT = true
+
+disqusShortname = "yourdiscussshortname"
+
+[languages]
+  [languages.en]
+    title = "RENE HLAVOVA"
+    weight = 1
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  author = "Rene Hlavova"
+  description = "test"
+  keywords = "personal,portfolio,blog,developer,creative"
+  colorscheme = "light"
+  soundcloud = "https://soundcloud.com/renehlavova"
+  instagram = "https://www.instagram.com/rene.hlavova/?hl=en"
+  youtube = "https://www.youtube.com/channel/UCAx1hJgAGTsfEiK1v818p7A"
+  github = "https://github.com/renehlavova"
+  linkedin = "https://www.linkedin.com/in/renata-hlavova/"
+  background_color_class = "bg-light-silver"
+  body_classes = "avenir bg-near-white"
+  post_content_classes = "avenir bg-near-black" 
+  featured_image = "/images/gohugo-default-image-rene.jpg"
+  recent_posts_number = 0
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

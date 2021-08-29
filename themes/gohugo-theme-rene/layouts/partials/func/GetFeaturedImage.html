@@ -1,0 +1,13 @@
+{{ $linkToCover := "" }}
+
+{{ if .Params.featured_image }}
+    {{ $linkToCover = .Params.featured_image }}
+
+{{ else }}
+    {{ $img := (.Resources.ByType "image").GetMatch "*cover*" }}
+    {{ with $img }}
+        {{ $linkToCover = .RelPermalink }}
+    {{ end }}
+{{ end }}
+
+{{ return $linkToCover }}
