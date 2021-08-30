@@ -14,6 +14,7 @@ canonifyurls = true
 
 googleAnalytics = ""
 enableRobotsTXT = true
+enableInlineShortcodes = true
 
 disqusShortname = "yourdiscussshortname"
 
@@ -30,7 +31,6 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Rene Hlavova"
-  description = "test"
   keywords = "personal,portfolio,blog,developer,creative"
   colorscheme = "light"
   soundcloud = "https://soundcloud.com/renehlavova"
@@ -38,7 +38,6 @@ disqusShortname = "yourdiscussshortname"
   youtube = "https://www.youtube.com/channel/UCAx1hJgAGTsfEiK1v818p7A"
   github = "https://github.com/renehlavova"
   linkedin = "https://www.linkedin.com/in/renata-hlavova/"
-  background_color_class = "bg-light-silver"
   body_classes = "avenir bg-near-white"
   post_content_classes = "avenir bg-near-black" 
   featured_image = "/images/gohugo-default-image-rene.jpg"

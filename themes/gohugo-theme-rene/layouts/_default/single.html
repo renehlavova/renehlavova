@@ -1,11 +1,12 @@
 {{ define "header" }}
-   {{/* We can override any block in the baseof file be defining it in the template */}}
   {{ partial "page-header.html" . }}
 {{ end }}
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-wrap justify-between mw8 center ph3">
+
+  <article class="flex-wrap justify-between center ph3 pa3 mr3 ml3">
+
     <header class="mt4 w-100">
       <aside class="instapaper_ignoref b helvetica tracked">
           {{/*
@@ -15,7 +16,6 @@
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
       </aside>
       <h1 class="f1 athelas mt3 mb1">
-        {{- .Title -}}
       </h1>
       {{ with .Params.author }}
       <p class="tracked">

@@ -1,0 +1,27 @@
+{{ define "header" }}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+
+  <article class="flex-wrap pa3 mr3 ml3">
+    <header class="mt3 w-100">
+
+      <aside class="avenir tracked">
+        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+      </aside>
+
+      <h1 class="f1 avenir tracked fw5">
+        {{- .Title -}}
+      </h1>
+
+    </header>
+
+    <div class="nested-copy-line-height center lh-copy f5-l nested-links nested-img mid-gray tl avenir">
+      {{- .Content -}}
+      </div>
+    </div>
+
+  </article>
+{{ end }}

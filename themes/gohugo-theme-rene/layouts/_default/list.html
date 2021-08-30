@@ -1,19 +1,18 @@
 {{ define "main" }}
-  <article class="pa3">
 
-    <section class="tc measure-wide avenir f4 f4-m f8-l fw2 black-80 center lh-copy">
-      {{- .Content -}}
-    </section>
+  <article class="pa3 nested-copy-line-height nested-img">
 
-    <section class="flex-wrap justify-around mt5">
+    <aside class="flex-ns flex-wrap justify-around mt5">
       {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{- partial "summary.html" . -}}
-        </div>
-      {{ end }}
-    </section>
 
-    {{- template "_internal/pagination.html" . -}}
+        <div class="relative w-100 w-30-l pa3 tc mb0 bg-white">
+          {{ .Render "summary.html" }}
+        </div>
+
+      {{ end }}
+    </aside>
+
+    {{ template "_internal/pagination.html" . }}
   
   </article>
 {{ end }}

@@ -1,9 +1,5 @@
 ---
 title: "Portfolio"
-description: "portfolio"
-featured_image: ''
-disable_share: true
+featured_image: 'images/gohugo-portfolio-image-rene.jpg'
 weight: 2
 ---
-
-Totok bude portfolio
