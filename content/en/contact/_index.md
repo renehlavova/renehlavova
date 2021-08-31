@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-featured_image: "images/gohugo-contact-image-rene.jpg"
+featured_image: "/images/gohugo-contact-image-rene.jpg"
 weight: 4
 
 ---

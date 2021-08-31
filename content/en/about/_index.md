@@ -2,7 +2,7 @@
 title: "About"
 description: ""
 weight: 1
-featured_image: "images/gohugo-about-image-rene.jpg"
+featured_image: "/images/gohugo-about-image-rene.jpg"
 ---
 
 I work as a data analyst/scientist. I hold a psychology degree from Masaryk University.
