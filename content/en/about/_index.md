@@ -11,4 +11,4 @@ Before my data detective journey, I worked as a junior researcher at the IVDMR l
 
 Apart from data, I engage in multiple other passions, including composing and producing my own music, or photography. Music always played a big role in bringing authenticity, raw emotions, and creative playfulness into my life. My time-management skills, daily dose of yoga and meditation also help me tremendously to sustain a healthy and balanced lifestyle, which I hope to incorporate professionally into my work in the future. And as a knowledge seeker speaking, I hope the journey to gain more skills and knowledge to never end.
 
-Do you want to get in touch? Please reach out to me by email or via social media. 
+Do you want to get in touch? Please reach out to me by [email](mailto:hlavova.renata@gmail.com) or via social media. 
