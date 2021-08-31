@@ -6,6 +6,8 @@ weight: 2
 
 Since 2019, I work as a data analyst.
 
+&nbsp;
+
 My journey started while conducting research at university - I realized I enjoy playing with the data the most. I spent countless hours on DataCamp, Coursera, and other platforms trying to learn **Python** to be able to combine it with my **statistical knowledge**. 
 
 In [Kiwi.com](https://www.kiwi.com/en/pages/content/about), I had a chance to get my hands dirty with almost anything related to data. I prepared data models **(ETLs)** in **Keboola** or **Airflow**, analyses in **Jupyter notebooks**, dashboards in **GoodData** or **Looker**, wrote a lot of **SQL**, and even played with some **HTML** and **JavaScript** when working with Retool. After nearly two years, I was helping more junior colleagues with **Git**, coding, and was even a Looker ambassador, responsible for dashboard quality prepared by our team.

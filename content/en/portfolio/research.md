@@ -13,6 +13,8 @@ As my main interest is tied to quantitative data analysis, statistics, and data 
 
 After finishing my studies, I focused solely on data analytics but soon realized that I miss the knowledge seeking nature of research. I decided to investigate how to use research effectively to help the world, and at the moment, I volunteer for [Faunalytics](https://faunalytics.org) (2020 - 2021) as a statistician and data scientist.
 
+&nbsp;
+
 Below, you can find example projects. For further details, please check [Google Schoolar](https://scholar.google.com/citations?hl=en&user=7-XVaQ0AAAAJ), or [ResearchGate](https://www.researchgate.net/profile/Renata-Hlavova).
 
 &nbsp;
