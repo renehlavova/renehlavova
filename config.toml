@@ -11,7 +11,7 @@ theme = "gohugo-theme-rene"
 
 SectionPagesMenu = "main"
 paginate = 20 
-canonifyurls = true
+canonifyURLs = true
 
 googleAnalytics = ""
 enableRobotsTXT = true
