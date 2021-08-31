@@ -6,6 +6,7 @@ relativeURLs = true
 languagecode = "en-us"
 defaultcontentlanguage = "en"
 
+
 theme = "gohugo-theme-rene"
 
 SectionPagesMenu = "main"

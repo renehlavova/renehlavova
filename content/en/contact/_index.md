@@ -9,7 +9,7 @@ Anything on your mind? Email me at [hlavova.renata@gmail.com](mailto:hlavova.ren
 
 &nbsp;
 
-Do you want to discuss business? Read out via [LinkedIn](https://www.linkedin.com/in/renata-hlavova/).
+Do you want to discuss business? Reach out via [LinkedIn](https://www.linkedin.com/in/renata-hlavova/).
 
 &nbsp;
 
