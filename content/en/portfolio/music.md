@@ -18,6 +18,8 @@ I think of music as a tool towards more authenticity. When I let go of all barri
 
 You can look forward to a piano album Dialogues I, which I will be releasing later this year (2021).
 
+&nbsp;
+
 To find my music, check out:
 - [YouTube](https://www.youtube.com/channel/UCAx1hJgAGTsfEiK1v818p7A)
 - [SoundCloud](https://soundcloud.com/renehlavova)

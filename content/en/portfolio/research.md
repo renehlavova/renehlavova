@@ -5,9 +5,13 @@ featured_image: ''
 weight: 2
 ---
 
-As a generalist with psychology background whose main interest is tied to quantitative data analysis, statistics, and data science, I was a part of multiple projects with differing topics. 
+As my main interest is tied to quantitative data analysis, statistics, and data science, I was a part of multiple projects with differing topics:
 
-In [IRTIS](https://irtis.muni.cz) at Masaryk University (2015 - 2019), I helped coordinate data collection, helped develop a research survey, and prepared multivariate data analyses in an international project [EU Kids Online](https://irtis.muni.cz/research/projects/euko-iv). In [Junior Researcher Programme](https://jrp.pscholars.org) (2016 - 2017), I had an opportunity to conduct a whole research project in an international team and present the results at conferences in Madrid and Cambridge. During 2019, I helped conceptualize music therapy studies at University of Ostrava. After finishing my studies, I focused solely on data analytics but soon realized that I miss the knowledge seeking nature of research. I decided to investigate how to use research effectively to help the world, and at the moment, I volunteer for [Faunalytics](https://faunalytics.org) (2020 - 2021) as a statistician and data scientist.
+* In [IRTIS](https://irtis.muni.cz) at Masaryk University (2015 - 2019), I helped coordinate data collection, helped develop a research survey, and prepared multivariate data analyses in an international project [EU Kids Online](https://irtis.muni.cz/research/projects/euko-iv). 
+* In [Junior Researcher Programme](https://jrp.pscholars.org) (2016 - 2017), I had an opportunity to conduct a whole research project in an international team and present the results at conferences in Madrid and Cambridge. 
+* During 2019, I helped conceptualize music therapy studies at University of Ostrava. 
+
+After finishing my studies, I focused solely on data analytics but soon realized that I miss the knowledge seeking nature of research. I decided to investigate how to use research effectively to help the world, and at the moment, I volunteer for [Faunalytics](https://faunalytics.org) (2020 - 2021) as a statistician and data scientist.
 
 Below, you can find example projects. For further details, please check [Google Schoolar](https://scholar.google.com/citations?hl=en&user=7-XVaQ0AAAAJ), or [ResearchGate](https://www.researchgate.net/profile/Renata-Hlavova).
 
