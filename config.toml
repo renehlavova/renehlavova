@@ -41,7 +41,6 @@ disqusShortname = "yourdiscussshortname"
   linkedin = "https://www.linkedin.com/in/renata-hlavova/"
   body_classes = "avenir bg-near-white"
   post_content_classes = "avenir bg-near-black" 
-  featured_image = "/images/gohugo-default-image-rene.jpg"
   recent_posts_number = 0
 
 [taxonomies]

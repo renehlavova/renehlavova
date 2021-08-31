@@ -1,3 +1,7 @@
+---
+featured_image: "/images/gohugo-default-image-rene.jpg"
+---
+
 &nbsp;
 
 Welcome! I am Rene. 
