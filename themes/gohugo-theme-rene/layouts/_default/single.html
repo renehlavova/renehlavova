@@ -5,6 +5,7 @@
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
 
+<div class="flex-l mt2 mw8 center">
   <article class="flex-wrap justify-between center ph3 pa3 mr3 ml3">
     
     <header class="mt4 w-100">
@@ -49,4 +50,5 @@
     </div>
 
   </article>
+</div>
 {{ end }}

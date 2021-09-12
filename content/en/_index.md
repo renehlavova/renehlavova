@@ -10,5 +10,7 @@ Welcome! I am Rene.
 
 I work in data and research. I play and compose music. I do many things. 
 
-Wish to explore them further?
 &nbsp;
+
+Wish to explore them further?
+
