@@ -15,7 +15,7 @@ Recently I started recording my piano improvisations. After some time I had forg
 
 I think of music as a tool towards more authenticity. When I let go of all barriers and stop thinking for a second, music helps me express myself and feel free, in contrast to my overthinking data analyst side. Thus most my material is raw, not much edited, not even really composed - because all of the compositions came from emotions tied to the specific moment. And any further edits would mean loosing the moment. 
 
-You can look forward to a piano album **Dialogues I**, which will be released later this year. **You can already listen to the first dialogue [Crossroads](https://www.youtube.com/watch?v=8LK1QkIQ1Ac)**.
+You can look forward to a piano album **Dialogues I**, which will be released later this year. **You can already listen to the first dialogue [Crossroads](https://youtu.be/kIEhVDfyJ0o)**.
 
 &nbsp;
 
