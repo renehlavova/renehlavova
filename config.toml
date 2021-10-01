@@ -13,7 +13,7 @@ SectionPagesMenu = "main"
 paginate = 20 
 canonifyURLs = true
 
-googleAnalytics = ""
+googleAnalytics = "G-8TJLKCVTHL"
 enableRobotsTXT = true
 enableInlineShortcodes = true
 

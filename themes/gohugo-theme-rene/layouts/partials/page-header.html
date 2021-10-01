@@ -3,6 +3,8 @@
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
 
     <div class="pb6-m pb6-l bg-black-60">
       {{ partial "site-navigation.html" . }}
@@ -21,6 +23,8 @@
   
 {{ else }}
   <header>
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
     <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
       {{ partial "site-navigation.html" . }}
     </div>
