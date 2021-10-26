@@ -9,7 +9,7 @@ As my main interest is tied to quantitative data analysis, statistics, and data 
 
 The latest news is a release of **Psychology and Behavioral Economics** (2021) textbook where I worked on two chapters, *Education and behavior* and *Evidence-based policy*. It is aimed to help get an idea how to use behavioural science in public policy.
 
-Below, you can find example projects. For further details, please check [Google Schoolar](https://scholar.google.com/citations?hl=en&user=7-XVaQ0AAAAJ), or [ResearchGate](https://www.researchgate.net/profile/Renata-Hlavova).
+Below, you can find other example projects. For further details, please check [Google Schoolar](https://scholar.google.com/citations?hl=en&user=7-XVaQ0AAAAJ), or [ResearchGate](https://www.researchgate.net/profile/Renata-Hlavova).
 
 &nbsp;
 
