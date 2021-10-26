@@ -13,8 +13,9 @@ At the moment, I focus on expanding my skills in data science.
 &nbsp;
 
 You can check examples of my work on [GitHub](https://github.com/renehlavova) or [Kaggle](https://www.kaggle.com/renehlavova):
-* [Book Recommendation System](https://www.kaggle.com/renehlavova/recommender-system-for-books) using Python
-* [Finding Pleasure in Music](https://github.com/renehlavova/projects/tree/main/finding-pleasure-in-music) using Python (exploratory analysis) and R (psychometric tests and linear regression)
-* [My Portfolio Website](https://github.com/renehlavova/renehlavova) using Hugo, inspired by Ananke theme
-* [Example SQL](https://github.com/renehlavova/knowledge-base/tree/main/sql/dtse)
-* [Experimentation with SOS notebooks](https://github.com/renehlavova/projects/blob/main/advent-of-code/2020/day1_day2_sos_notebook.ipynb) when solving Advent of Code
+* 2021 | [Tiny Scraper](https://github.com/renehlavova/bike-scraper) using Python
+* 2021 | [My Portfolio Website](https://github.com/renehlavova/renehlavova) using Hugo, inspired by Ananke theme
+* 2021 | [Book Recommendation System](https://www.kaggle.com/renehlavova/recommender-system-for-books) using Python
+* 2020 | [Example SQL](https://github.com/renehlavova/knowledge-base/tree/main/sql/dtse)
+* 2020 | [Experimentation with SOS notebooks](https://github.com/renehlavova/projects/blob/main/advent-of-code/2020/day1_day2_sos_notebook.ipynb) when solving Advent of Code
+* 2019 | [Finding Pleasure in Music](https://github.com/renehlavova/projects/tree/main/finding-pleasure-in-music) using Python (exploratory analysis) and R (psychometric tests and linear regression)
