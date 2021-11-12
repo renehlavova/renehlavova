@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RENE HLAVOVA</title>
+    <link>https://renehlavova.com/</link>
+    <description>Recent content on RENE HLAVOVA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://renehlavova.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analytics</title>
+      <link>https://renehlavova.com/portfolio/data_analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://renehlavova.com/portfolio/data_analytics/</guid>
+      <description>I come from social sciences background and my programming skills are self-learnt. I worked for Kiwi.com (2019 - 2021), and Seznam (2021).
+I am skilled in preparing data models (ETLs) in Keboola or Airflow, statistical analyses in Jupyter notebooks, dashboards in GoodData, Tableau, or Looker, wrote a lot of SQL, and even played with some HTML and JavaScript when working with Retool. I also worked with big data using PySpark, helped more junior colleagues with Git and coding reviews, and was a Looker ambassador, responsible for dashboard quality prepared by our team.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://renehlavova.com/portfolio/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://renehlavova.com/portfolio/music/</guid>
+      <description>I started playing piano at the age of 6 at a local art school. Then I did gigs with two musical bands and performed in cafés around Brno (Czech Republic), but did not continue to study music professionally.
+However, during psychology studies, my activities were centered around music - I organized musical activities for child psychiatry patients, conducted a research project related to music and well-being in the elderly, or helped conceptualize music therapy studies at University of Ostrava.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://renehlavova.com/portfolio/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://renehlavova.com/portfolio/research/</guid>
+      <description>As my main interest is tied to quantitative data analysis, statistics, and data science, I was a part of multiple projects with differing topics.
+The latest news is a release of Psychology and Behavioral Economics (2021) textbook where I worked on two chapters, Education and behavior and Evidence-based policy. It is aimed to help get an idea how to use behavioural science in public policy.
+Below, you can find other example projects.</description>
+    </item>
+    
+  </channel>
+</rss>
