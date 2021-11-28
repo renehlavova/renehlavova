@@ -4,9 +4,9 @@ featured_image: ''
 weight: 2
 ---
 
-I come from social sciences background and my programming skills are self-learnt. I worked for **[Kiwi.com](https://www.kiwi.com/en/pages/content/about)** (2019 - 2021), and **[Seznam](https://o.seznam.cz/en/about-us/)** (2021).
+I come from social sciences background and my programming skills are self-learnt. Recently, **I joined a team of data detectives in [BizzTreat](https://www.bizztreat.com) (2021 - today)**. Previous years, I worked for **[Kiwi.com](https://www.kiwi.com/en/pages/content/about)** (2019 - 2021), and **[Seznam](https://o.seznam.cz/en/about-us/)** (2021). 
 
-I am skilled in preparing data models **(ETLs)** in **Keboola** or **Airflow**, statistical analyses in **Jupyter notebooks**, dashboards in **GoodData**, **Tableau**, or **Looker**, wrote a lot of **SQL**, and even played with some **HTML** and **JavaScript** when working with Retool. I also worked with big data using **PySpark**, helped more junior colleagues with **Git** and coding reviews, and was a Looker ambassador, responsible for dashboard quality prepared by our team.
+I am skilled in preparing data models **(ETLs)** in **Keboola** or **Airflow**, statistical analyses in **Jupyter notebooks**, dashboards in **GoodData**, **Tableau**, **Looker** or **PowerBI**, wrote a lot of **SQL**, and even played with some **HTML** and **JavaScript** when working with Retool. I also worked with big data using **PySpark**, helped more junior colleagues with **Git** and coding reviews, and was a Looker ambassador, responsible for dashboard quality prepared by our team.
 
 At the moment, I focus on expanding my skills in data science.
 
