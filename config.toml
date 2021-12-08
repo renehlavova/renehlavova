@@ -6,6 +6,7 @@ relativeURLs = true
 languagecode = "en-us"
 defaultcontentlanguage = "en"
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 theme = "gohugo-theme-rene"
 
@@ -43,6 +44,6 @@ disqusShortname = "yourdiscussshortname"
   post_content_classes = "avenir bg-near-black" 
   recent_posts_number = 0
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+#[taxonomies]
+#  category = "categories"
+#  tag = "tags"
