@@ -1,6 +1,2 @@
 User-agent: *
 Allow: /
-
-{{ range where .Data.Pages "Params.robotsdisallow" true }}
-Allow: /
-{{ end }}
