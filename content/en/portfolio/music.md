@@ -25,7 +25,7 @@ Once I started recording my piano improvisations. After some time I had forgotte
 
 &nbsp;
 
-> *I think of music as a tool towards authenticity. Music helps me express emotions that I do not understand. It stands in contrast to my overthinking analytical side which always has an answer. I like my music raw, not much edited, not even really composed - because all of the compositions are tied to the specific moment that hit me somehow. And any further edits would mean loosing the moment.*
+> *I think of music as a tool towards authenticity. Music helps me express emotions that I do not understand. It stands in contrast to my overthinking analytical side which always has an answer. I like my music raw, not much edited, not even really composed - because all of the compositions are tied to the specific moment that hit me somehow. And any further edits would mean losing the moment.*
 
 
 &nbsp;
