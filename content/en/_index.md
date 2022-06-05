@@ -4,13 +4,15 @@ featured_image: "/images/gohugo-default-image-rene.jpg"
 
 &nbsp;
 
-Welcome! I am Rene. 
+Welcome to my portfolio! 
 
 &nbsp;
 
-I work in data and research. I play and compose music. I do many things. 
+I am **Rene**. 
 
 &nbsp;
 
-Wish to explore them further?
+I am a data analyst who combines analytical and technical skills with background in psychology.
+
+I also engage in multiple creative pursuits, by writing and producing music, or studying photography.
 

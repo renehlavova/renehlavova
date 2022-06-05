@@ -5,11 +5,19 @@ weight: 1
 featured_image: "/images/gohugo-about-image-rene.jpg"
 ---
 
-I work as a **data analyst / scientist**. I hold a **psychology** degree from Masaryk University.
+I am a **data detective**. 
 
-Before data related work, I worked as a **junior researcher** at the IVDMR lab and conducted a research project with an international team under Junior Researcher Programme which affects my current work, always turning back to up-to-date research and placing value in evidence-based and data-driven decisions. My psychology background helps me look at the data from a wider perspective. I also focus on aligning my career with principles of effective altruism, as I currently volunteer for Faunalytics as a data scientist. You can check my resume for further details [here](/files/Hlavova_resume.pdf).
+I started my journey while studying **psychology** at [MUNI](https://www.fss.muni.cz/). I joined [IRTIS](https://irtis.muni.cz/about/members/previous-members/renata-hlavova) lab as a **junior researcher** and also conducted a research project under [Junior Researcher Programme](https://jrp.pscholars.org/). As I specialized in analysis and its technical side, I switched to a data analytics in industry in 2019. This unique background helps me see data from a wider perspective, placing value in data-driven decisions. 
 
-Apart from data, I engage in multiple other passions, including **composing and producing my own music**, or **photography**. To stay organised handling multiple projects, I follow GTD (Getting Things Done) approach. Daily dose of **yoga and meditation** also helps me tremendously to sustain a healthy and balanced lifestyle. And as a knowledge seeker speaking, I hope the journey to gain more skills and knowledge to never end.
+As a part of my analytical side, I tend to follow principles of [effective altruism](https://effectivealtruism.org.au/about-ea/). Volunteering as a data scientist with [Faunalytics](https://faunalytics.org/) helped me shape my own project focused on animal welfare (more on this soon).
+
+Apart from data, I engage in multiple creative pursuits, including **writing and producing my own music**, or studying **photography**. 
+
+To stay organised handling all of my projects, I follow [GTD methodology](https://gettingthingsdone.com/) using Notion. 
+
+&nbsp;
+
+> 💡 *I am a knowledge seeker and work on expanding my skills as we speak.*
 
 &nbsp;
 
