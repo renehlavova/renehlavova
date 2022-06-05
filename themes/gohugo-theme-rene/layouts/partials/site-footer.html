@@ -1,8 +1,16 @@
-<footer class="bottom-0 w-100 pa5" role="contentinfo">
-  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
-  <div class="flex justify-between">
-    <div class="f4 dib-ns pv2 center">
-    {{ partial "social-follow.html" . }}
-    </div>
-  </div>
-</footer>
+{{ if .IsHome}}
+
+  <footer class="cover bg-bottom {{ .Site.Params.cover_dimming_class | default "bg-black-60" }}" role="contentinfo">
+    <div class="flex justify-between">
+      <div class="f4 dib-ns pv2 center">
+        {{ partial "social-follow.html" . }}
+      </div>
+   </div>
+  </footer>
+
+  {{ else }}
+
+  <footer>
+  </footer>
+
+{{ end }}

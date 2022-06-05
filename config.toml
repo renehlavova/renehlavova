@@ -18,8 +18,6 @@ googleAnalytics = "G-8TJLKCVTHL"
 enableRobotsTXT = true
 enableInlineShortcodes = true
 
-disqusShortname = "yourdiscussshortname"
-
 [languages]
   [languages.en]
     title = "RENE HLAVOVA"
@@ -33,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Rene Hlavova"
-  keywords = "personal,portfolio,blog,developer,creative"
+  keywords = "personal,portfolio,blog,developer,creative,music,composer,analyst,renehlavova,renatahlavova,hlavova"
   colorscheme = "light"
   soundcloud = "https://soundcloud.com/renehlavova"
   instagram = "https://www.instagram.com/rene.hlavova/?hl=en"
