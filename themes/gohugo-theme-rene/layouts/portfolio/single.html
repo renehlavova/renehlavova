@@ -3,7 +3,12 @@
 {{ end }}
 
 {{ define "main" }}
-  {{ $section := .Site.GetPage "section" .Section }}
+
+  {{ if .Params.redirect }}
+    <meta http-equiv="Refresh" content="0; url='https://expeditions.renehlavova.com/'" />
+  {{else}}
+    {{ $section := .Site.GetPage "section" .Section }}
+  {{ end}}
 
 <div class="flex-l mt2 mw8 center">
   <article class="flex-auto justify-between center pa4 mr6 ml6">
