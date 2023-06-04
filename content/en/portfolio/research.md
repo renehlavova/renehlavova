@@ -7,7 +7,7 @@ weight: 2
 
 **At the moment, I am not active in any research project.** 
 
-Historically, I was a part of multiple projects with differing topics as my main interest was tied to quantitative data analysis and statistics.
+Historically, I was a part of multiple projects as my main interest was tied to quantitative data analysis and statistics.
 
 The latest news is a release of **Psychology and Behavioral Economics** (2021) textbook where I worked on two chapters, *Education and behavior* and *Evidence-based policy*. It is aimed to help get an idea how to use behavioural science in public policy.
 
