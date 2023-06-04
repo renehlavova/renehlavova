@@ -44,6 +44,9 @@ disqusShortname = "yourdiscussshortname"
   post_content_classes = "avenir bg-near-black" 
   recent_posts_number = 0
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 #[taxonomies]
 #  category = "categories"
 #  tag = "tags"

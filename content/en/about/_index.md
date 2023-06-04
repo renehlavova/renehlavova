@@ -5,19 +5,16 @@ weight: 1
 featured_image: "/images/gohugo-about-image-rene.jpg"
 ---
 
-I am a **data detective**. 
+Welcome! 
 
-I started my journey while studying **psychology** at [MUNI](https://www.fss.muni.cz/). I joined [IRTIS](https://irtis.muni.cz/about/members/previous-members/renata-hlavova) lab as a **junior researcher** and also conducted a research project under [Junior Researcher Programme](https://jrp.pscholars.org/). As I specialized in analysis and its technical side, in 2019, I switched to a data analytics in industry. This unique background helps me see data from a wider perspective, placing value in data-driven decisions. 
+This website serves as a portfolio website to showcase some of my past work. 
 
-As a part of my analytical side, I tend to follow principles of [effective altruism](https://effectivealtruism.org.au/about-ea/). Volunteering as a data scientist with [Faunalytics](https://faunalytics.org/) helped me shape my own project focused on animal welfare (more on this soon).
+Career-wise, I am a **data professional** profiling in data engineering.
 
-Apart from data, I engage in multiple creative pursuits, including **writing and producing my own music**, or studying **photography**. 
+Apart from data, I engage in multiple creative pursuits as a hobby, including **songwriting**, or **photography**. 
 
-To stay organised handling all of my projects, I follow [GTD methodology](https://gettingthingsdone.com/) using Notion. 
+To follow up on any area of interest, please see the Portfolio page.
 
-&nbsp;
-
-> 💡 *I am a knowledge seeker and work on expanding my skills as we speak.*
 
 &nbsp;
 
